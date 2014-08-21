@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">altair</string>
+    <string name="hello_world">This is a string. I have changed it.</string>
+    <string name="about_altair"><b>Altair</b> \n \n(Alpha Aquilae, Alpha Aql, α Aquilae, α Aql, Atair) is the brightest star in the constellation Aquila and the twelfth brightest star in the night sky. It is currently in the G-cloud. Altair is an A-type main sequence star with an apparent visual magnitude of 0.77 and is one of the vertices of the Summer Triangle (the other two vertices are marked by Deneb and Vega). \n \n
+
+Altair rotates rapidly, with a velocity at the equator of approximately 286 km/s. A study with the Palomar Testbed Interferometer revealed that Altair is not spherical, but is flattened at the poles due to its high rate of rotation. Other interferometric studies with multiple telescopes, operating in the infrared, have imaged and confirmed this phenomenon.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_toc">Table of Contents</string>
+
+</resources>
